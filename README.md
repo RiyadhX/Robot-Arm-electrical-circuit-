@@ -6,7 +6,7 @@ equipment:
 5 Servo motor
 1 Ardunio Uno R3
 1 small Breadboard
-
+18 wire
 --
 
 Steps:
